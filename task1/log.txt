@@ -1,0 +1,13 @@
+star_@LAPTOP-5U1I2BK2 MINGW64 /d/UP (master)
+$ git log
+commit 6085f4b1ead269b9927209709bfb2b04b30c1837 (HEAD -> master)
+Author: MaryS <torinoborei@gmail.com>
+Date:   Tue Feb 11 10:53:01 2020 +0300
+
+    add status.txt
+
+commit 5bd3dce506df592cd5bd17d1eb679084b95ad785
+Author: MaryS <torinoborei@gmail.com>
+Date:   Tue Feb 11 10:41:00 2020 +0300
+
+    add .gitignore
