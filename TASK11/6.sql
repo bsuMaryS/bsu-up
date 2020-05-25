@@ -1,0 +1,1 @@
+SELECT u.USER_ID, u.NAME, count(*)'posts amount' FROM USER u join POST p on p.USER_ID = u.USER_ID where p.CREATED_AT between '2020-03-01 00:00:00' and '2020-03-01 23:59:59' group by u.USER_ID;

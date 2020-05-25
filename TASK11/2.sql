@@ -1,0 +1,1 @@
+SELECT * FROM POST where USER_ID = 10;
